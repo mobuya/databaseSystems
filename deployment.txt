@@ -1,0 +1,21 @@
+* * * * * * DEPLOYEMENT * * * * * * 
+
+STACK 1: Java & PHP, Almighty
+
+1. 12044041_drop.sql ausführen
+
+2. 12044041_create.sql ausführen
+
+3. im folder "sources" den folder "java" öffnen, ojdbc10.jar wie im tutorium "verbinden" und das Java file Tester.java ausführen. (im terminal wird bescheid gegeben wie viele inserts successful waren) 
+
+4. im folder "sources", folder "php" in almighty kopieren zum folder "public_html"
+**/home/[username]/public_html
+**WinSCP
+
+5. "index.php" ist die startseite, unter folgendem link verfügbar:
+https://wwwlab.cs.univie.ac.at/~abadzicm73/index.php
+
+oder nur : https://wwwlab.cs.univie.ac.at/~abadzicm73/
+
+~die Idee war, eine "realistische" Web-Seite für Kunden zu erstellen wo diese Schmuck bestellen können, diese bearbeiten können etc...
+~ Amelia2306@hotmail.com, ohne einen neuen Account zu machen, können sie diese E-Mail für die Anmeldung benutzen um zu schauen wie es aussieht wenn ein Kunde schon ein Paar Bestellungen hat
